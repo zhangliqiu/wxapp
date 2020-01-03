@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "黑马首页",
+    "usingComponents": {
+        "Searchinput": "../../components/Searchinput/Searchinput"
+    }
+}
